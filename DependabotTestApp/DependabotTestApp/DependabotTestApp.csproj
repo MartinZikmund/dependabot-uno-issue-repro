@@ -35,5 +35,8 @@
     <UnoFeatures>
     </UnoFeatures>
   </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" />
+  </ItemGroup>
 
 </Project>
