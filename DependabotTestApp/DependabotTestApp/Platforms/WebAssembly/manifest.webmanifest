@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "DependabotTestApp",
+  "display": "standalone",
+  "name": "DependabotTestApp",
+  "short_name": "DependabotTestApp",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}
